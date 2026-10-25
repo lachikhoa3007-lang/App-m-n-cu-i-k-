@@ -1,0 +1,6 @@
+{
+  "name": "Căn Tin Khu E HUTECH - Quản Trị & Đặt Món",
+  "description": "Hệ thống quản trị Căn Tin Khu E HUTECH liên kết đồng bộ ứng dụng đặt món sinh viên nội khu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
